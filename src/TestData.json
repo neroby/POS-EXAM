@@ -1,0 +1,219 @@
+{
+    "wordList": [
+        {
+            "id": 1,
+            "word": "slowly",
+            "options":[
+                
+                    { "id": 0, "pos": "adjective", "isCorrect": false },
+                    { "id": 1, "pos": "noun", "isCorrect": false },
+                    { "id": 2, "pos": "verb", "isCorrect": false },
+                    { "id": 3, "pos": "adverb", "isCorrect": true }
+                
+            ]
+            
+        },
+        {
+            "id": 2,
+            "word": "ride",
+            "options":[
+                
+                { "id": 0, "pos": "adjective", "isCorrect": false },
+                { "id": 1, "pos": "noun", "isCorrect": false },
+                { "id": 2, "pos": "verb", "isCorrect": true },
+                { "id": 3, "pos": "adverb", "isCorrect": false }
+            
+        ]
+        },
+        {
+            "id": 3,
+            "word": "bus",
+            "options":[
+                
+                { "id": 0, "pos": "adjective", "isCorrect": false },
+                { "id": 1, "pos": "noun", "isCorrect": true },
+                { "id": 2, "pos": "verb", "isCorrect": false },
+                { "id": 3, "pos": "adverb", "isCorrect": false }
+            
+        ]
+        },
+        {
+            "id": 4,
+            "word": "commute",
+            "options":[
+                
+                { "id": 0, "pos": "adjective", "isCorrect": false },
+                { "id": 1, "pos": "noun", "isCorrect": false },
+                { "id": 2, "pos": "verb", "isCorrect": true },
+                { "id": 3, "pos": "adverb", "isCorrect": false }
+            
+        ]
+        },
+        {
+            "id": 5,
+            "word": "emissions",
+            "options":[
+                
+                { "id": 0, "pos": "adjective", "isCorrect": false },
+                { "id": 1, "pos": "noun", "isCorrect": true },
+                { "id": 2, "pos": "verb", "isCorrect": false },
+                { "id": 3, "pos": "adverb", "isCorrect": false }
+            
+        ]
+        },
+        {
+            "id": 6,
+            "word": "walk",
+            "options":[
+                
+                { "id": 0, "pos": "adjective", "isCorrect": false },
+                { "id": 1, "pos": "noun", "isCorrect": false },
+                { "id": 2, "pos": "verb", "isCorrect": true },
+                { "id": 3, "pos": "adverb", "isCorrect": false }
+            
+        ]
+        },
+        {
+            "id": 7,
+            "word": "fast",
+            "options":[
+                
+                { "id": 0, "pos": "adjective", "isCorrect": true },
+                { "id": 1, "pos": "noun", "isCorrect": false },
+                { "id": 2, "pos": "verb", "isCorrect": false },
+                { "id": 3, "pos": "adverb", "isCorrect": false }
+            
+        ]
+        },
+        {
+            "id": 8,
+            "word": "car",
+            "options":[
+                
+                { "id": 0, "pos": "adjective", "isCorrect": false },
+                { "id": 1, "pos": "noun", "isCorrect": true },
+                { "id": 2, "pos": "verb", "isCorrect": false },
+                { "id": 3, "pos": "adverb", "isCorrect": false }
+            
+        ]
+        },
+        {
+            "id": 9,
+            "word": "crowded",
+            "options":[
+                
+                { "id": 0, "pos": "adjective", "isCorrect": true },
+                { "id": 1, "pos": "noun", "isCorrect": false },
+                { "id": 2, "pos": "verb", "isCorrect": false },
+                { "id": 3, "pos": "adverb", "isCorrect": false }
+            
+        ]
+        },
+        {
+            "id": 10,
+            "word": "arrival",
+            "options":[
+                
+                { "id": 0, "pos": "adjective", "isCorrect": false },
+                { "id": 1, "pos": "noun", "isCorrect": true },
+                { "id": 2, "pos": "verb", "isCorrect": false },
+                { "id": 3, "pos": "adverb", "isCorrect": false }
+            
+        ]
+        },
+        {
+            "id": 11,
+            "word": "emit",
+            "options":[
+                
+                { "id": 0, "pos": "adjective", "isCorrect": false },
+                { "id": 1, "pos": "noun", "isCorrect": false },
+                { "id": 2, "pos": "verb", "isCorrect": true },
+                { "id": 3, "pos": "adverb", "isCorrect": false }
+            
+        ]
+        },
+        {
+            "id": 12,
+            "word": "independent",
+            "options":[
+                
+                { "id": 0, "pos": "adjective", "isCorrect": true },
+                { "id": 1, "pos": "noun", "isCorrect": false },
+                { "id": 2, "pos": "verb", "isCorrect": false },
+                { "id": 3, "pos": "adverb", "isCorrect": false }
+            
+        ]
+        },
+        {
+            "id": 13,
+            "word": "convenient",
+            "options":[
+                
+                { "id": 0, "pos": "adjective", "isCorrect": true },
+                { "id": 1, "pos": "noun", "isCorrect": false },
+                { "id": 2, "pos": "verb", "isCorrect": false },
+                { "id": 3, "pos": "adverb", "isCorrect": false }
+            
+        ]
+        },
+        {
+            "id": 14,
+            "word": "lane",
+            "options":[
+                
+                { "id": 0, "pos": "adjective", "isCorrect": false },
+                { "id": 1, "pos": "noun", "isCorrect": true },
+                { "id": 2, "pos": "verb", "isCorrect": false },
+                { "id": 3, "pos": "adverb", "isCorrect": false }
+            
+        ]
+        },
+        {
+            "id": 15,
+            "word": "heavily",
+            "options":[
+                
+                { "id": 0, "pos": "adjective", "isCorrect": false },
+                { "id": 1, "pos": "noun", "isCorrect": false },
+                { "id": 2, "pos": "verb", "isCorrect": false },
+                { "id": 3, "pos": "adverb", "isCorrect": true }
+            
+        ]
+        }
+    ],
+    "scoresList": [
+        20,
+        90,
+        100,
+        50,
+        10,
+        50,
+        60,
+        0,
+        60,
+        10,
+        90,
+        30,
+        100,
+        30,
+        20,
+        90,
+        40,
+        20,
+        10,
+        60,
+        50,
+        100,
+        50,
+        80,
+        50,
+        80,
+        60,
+        80,
+        10,
+        40
+    ]
+}
+
+  
